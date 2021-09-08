@@ -1,5 +1,2 @@
-if(window.location.href="https://99anime.github.io/jsver/anime.html?attackontitan"){alert("")}
-if(window.location.href="https://99anime.github.io/jsver/anime?attackontitan"){alert("")}
-var header1 = document.createElement("h1");
-header1.innerHTML ="99anime";
-document.body.appendChild(header1);
+if(window.location.href="https://99anime.github.io/jsver/anime.html?attackontitan"){window.location.assign("attackontitan.html")}
+if(window.location.href="https://99anime.github.io/jsver/anime?attackontitan"){window.location.assign("attackintitan")}
